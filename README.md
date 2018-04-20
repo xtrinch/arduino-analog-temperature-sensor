@@ -5,7 +5,7 @@
 - Arduino uno
 - Analog temperature sensor (thermistor)
 - LCD1602
-- Potentiometer
+- Potentiometer (for contrast of LCD)
 
 ## Connections
 
@@ -18,7 +18,7 @@
 - A to 3.3V (backlight)
 - K to GND (backlight)
 
-### Potentiometer - for contrast of LCD
+### Potentiometer
 - one pin to VO of LCD1602
 - one pin to GND
 - one pin unconnected
